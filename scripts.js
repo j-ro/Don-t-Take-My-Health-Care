@@ -77,7 +77,7 @@ $(document).ready(function() {
 		var facebook_string = ''
 		+ 'https://www.facebook.com/dialog/feed?app_id=238823876266270&display=popup&caption=%20&link=http%3A%2F%2Fdonttakemyhealthcare.com&redirect_uri=https%3A%2F%2Factionnetwork.org&name=Donald+Trump+and+Republicans:+Don\'t+take+health+care+away+from+' 
 		+ encodeURIComponent($('.hero_input').val()) 
-		+ '&description=Donald+Trump+and+Republicans+are+plotting+to+take+away+our+health+coverage,+hike+our+costs,+and+put+us+at+the+mercy+of+private+health+insurance+corporations.+What+do+you+want+to+tell+them%3F+%23handsoffhealthcare&picture=https://actionnetwork.org//images/generic_facebook.jpg';
+		+ '&description=Donald+Trump+and+Republicans+are+plotting+to+take+away+our+health+coverage,+hike+our+costs,+and+put+us+at+the+mercy+of+private+health+insurance+corporations.+What+do+you+want+to+tell+them%3F+%23handsoffhealthcare&picture=http://donttakemyhealthcare.com/img/handsoff.png';
 		
 		var twitter_string = ''
 		+ 'https://twitter.com/intent/tweet?text=Donald+Trump+and+Republicans:+Don\'t+take+health+care+away+from+'
