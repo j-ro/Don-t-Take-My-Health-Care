@@ -24,7 +24,7 @@ body {
 }
 
 .hero {
-	background: url(img/hands.jpg) no-repeat center center; /* got from https://www.flickr.com/photos/seljes/3825144007/in/photolist-6Q1S3K-bTCJR4-EwaMC-EiByA-94FPyr-6bufj8-8BZn2-7D7CVi-4BBokG-8kVQX1-9PBcfk-87eLpH-p92CGg-61g9T7-2PVFPG-AaCL-9HucbW-8yR5k-oR55vh-8mhQFi-dSxDPA-9HH9YF-aR2U7P-aABUu2-7ZAUyQ-6v5Dps-7BSqZm-c2rfY-7W2uWG-nmVM5s-7wzSEh-2Tqqp-31ELpJ-7ww4CK-c4b1kb-7ww3sT-bhBY3-7wzTc5-4c3sZu-dq4K6-7ww4Ri-7abX98-8ykYnD-btTPQR-mNmFWm-96zxUq-arn3Pq-8XUgXA-7wzSQC-7ww3EF need to credit */
+	background: url(img/hands.jpg) no-repeat center center;
     background-size: cover;
     padding: 0px 0;
     height: 100%;
